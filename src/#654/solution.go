@@ -1,7 +1,5 @@
 package solution
 
-//link : https://leetcode.com/problems/maximum-binary-tree/
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode

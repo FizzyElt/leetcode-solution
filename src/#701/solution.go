@@ -1,6 +1,5 @@
 package solution
 
-//link : https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 type TreeNode struct {
 	Val   int
