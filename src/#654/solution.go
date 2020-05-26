@@ -1,4 +1,4 @@
-package Solution
+package solution
 
 //link : https://leetcode.com/problems/maximum-binary-tree/
 
