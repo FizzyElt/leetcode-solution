@@ -26,8 +26,8 @@ func buildTree(nums []int, start, end int) *TreeNode {
 	}
 
 	root := &TreeNode{Val: nums[maxIndex]}
-	root.Left = buildTree(nums[start:maxIndex], start, maxIndex-1)
+	root.Left = buildTree(nums[:maxIndex], start, maxIndex-1)
 	root.Right = buildTree(nums[maxIndex+1:], maxIndex+1, end)
-	
+
 	return root
 }
