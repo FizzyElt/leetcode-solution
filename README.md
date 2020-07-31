@@ -31,3 +31,4 @@
 * 929 Unique Email Addresses
 * 1030 Matrix Cells in Distance Order
 * 784 Letter Case Permutation
+* 20 Valid Parentheses
