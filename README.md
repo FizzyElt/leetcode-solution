@@ -33,3 +33,4 @@
 * 784 Letter Case Permutation
 * 20 Valid Parentheses
 * 120 Triangle
+* 1 Two Sum
