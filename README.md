@@ -35,3 +35,4 @@
 * 120 Triangle
 * 1 Two Sum
 * 11 Container With Most Water
+* 125 Valid Palindrome
