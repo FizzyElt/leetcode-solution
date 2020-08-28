@@ -1,7 +1,7 @@
 # 紀錄LeetCode解法(go、js)
 
 ## 已解題目
-* 1 [Two Sum](src/#1/)
+* 1 [Two Sum](src/#1/solution.go)
 * 11 Container With Most Water
 * 12 Integer to Roman
 * 15 3Sum
