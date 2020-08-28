@@ -40,3 +40,4 @@
 * 100 Same Tree
 * 938 Range Sum of BST
 * 617 Merge Two Binary Trees
+* 700 Search in a Binary Search Tree
