@@ -46,3 +46,4 @@
 * 897 Increasing Order Search Tree
 * 559 Maximum Depth of N-ary Tree
 * 965 Univalued Binary Tree
+* 1022 Sum of Root To Leaf Binary Numbers
