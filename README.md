@@ -44,3 +44,4 @@
 * 589 N-ary Tree Preorder Traversal
 * 590 N-ary Tree Postorder Traversal
 * 897 Increasing Order Search Tree
+* 559 Maximum Depth of N-ary Tree
