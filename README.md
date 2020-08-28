@@ -49,3 +49,4 @@
 * 1022 Sum of Root To Leaf Binary Numbers
 * 104 Maximum Depth of Binary Tree
 * 979 Distribute Coins in Binary Tree
+* 1457 Pseudo-Palindromic Paths in a Binary Tree
