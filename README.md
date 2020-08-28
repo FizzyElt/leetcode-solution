@@ -47,3 +47,4 @@
 * 559 Maximum Depth of N-ary Tree
 * 965 Univalued Binary Tree
 * 1022 Sum of Root To Leaf Binary Numbers
+* 104 Maximum Depth of Binary Tree
