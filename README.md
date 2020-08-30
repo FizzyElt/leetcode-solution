@@ -32,6 +32,7 @@
 * 701 Insert into a Binary Search Tree
 * 784 Letter Case Permutation
 * 821 Shortest Distance to a Character
+* 852 Peak Index in a Mountain Array
 * 897 Increasing Order Search Tree
 * 929 Unique Email Addresses
 * 938 Range Sum of BST
