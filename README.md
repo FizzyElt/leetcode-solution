@@ -43,6 +43,7 @@
 * 965 Univalued Binary Tree
 * 979 Distribute Coins in Binary Tree
 * 1008 Construct Binary Search Tree from Preorder Traversal
+* 1019 Next Greater Node In Linked List
 * 1022 Sum of Root To Leaf Binary Numbers
 * 1029 Two City Scheduling
 * 1030 Matrix Cells in Distance Order
