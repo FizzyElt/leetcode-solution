@@ -49,6 +49,7 @@
 * 817 Linked List Components
 * 821 Shortest Distance to a Character
 * 852 Peak Index in a Mountain Array
+* 889 Construct Binary Tree from Preorder and Postorder Traversal
 * 894 All Possible Full Binary Trees
 * 897 Increasing Order Search Tree
 * 929 Unique Email Addresses
