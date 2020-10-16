@@ -55,6 +55,7 @@
 * 897 Increasing Order Search Tree
 * 929 Unique Email Addresses
 * 938 Range Sum of BST
+* 951 Flip Equivalent Binary Trees
 * 965 Univalued Binary Tree
 * 979 Distribute Coins in Binary Tree
 * 1008 Construct Binary Search Tree from Preorder Traversal
