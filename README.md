@@ -77,6 +77,7 @@
 * 1448 Count Good Nodes in Binary Tree
 * 1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence
 * 1457 Pseudo-Palindromic Paths in a Binary Tree
+* 1460 Make Two Arrays Equal by Reversing Sub-arrays
 * 1470 Shuffle the Array
 * 1480 Running Sum of 1d Array
 * 1512 Number of Good Pairs
