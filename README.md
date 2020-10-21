@@ -28,6 +28,7 @@
 * 203 Remove Linked List Elements
 * 222 Count Complete Tree Nodes
 * 226 Invert Binary Tree
+* 230 Kth Smallest Element in a BST
 * 234 Palindrome Linked List
 * 237 Delete Node in a Linked List
 * 283 Move Zeroes
