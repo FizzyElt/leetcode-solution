@@ -49,6 +49,7 @@
 * 654 Maximum Binary Tree
 * 700 Search in a Binary Search Tree
 * 701 Insert into a Binary Search Tree
+* 705 Design HashSet
 * 725 Split Linked List in Parts
 * 784 Letter Case Permutation
 * 817 Linked List Components
